@@ -19,7 +19,7 @@ Make sure the following are installed on your system:
 `python -m venv venv`
 `venv\Scripts\activate`  # On Windows
 
-# OR
+OR
 
 `source venv/bin/activate`  # On Mac/Linux
 `pip install -r requirements.txt`
